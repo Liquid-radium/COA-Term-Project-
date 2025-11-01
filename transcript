@@ -1,0 +1,19 @@
+# vsim tb_4x4_multiplier -voptargs="+acc" -do "add wave *; run -all" 
+# Start time: 19:27:50 on Nov 01,2025
+# Loading work.tb_4x4_multiplier
+# Loading work.mult4x4
+# add wave *
+#  run -all
+# A	B	P	Expected
+#  0	 0	  0	 0
+#  1	 1	  1	 1
+#  3	 5	 15	15
+# 15	15	225	 1
+# 10	 6	 60	12
+# ** Note: $finish    : tb_4x4_multiplier.v(32)
+#    Time: 50 ns  Iteration: 0  Instance: /tb_4x4_multiplier
+# 1
+# Break in Module tb_4x4_multiplier at tb_4x4_multiplier.v line 32
+# Break key hit
+# End time: 19:33:56 on Nov 01,2025, Elapsed time: 0:06:06
+# Errors: 0, Warnings: 0
