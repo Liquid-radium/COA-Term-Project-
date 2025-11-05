@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 d/home/shruti_hegde/Shruti/sem 5/COA/COA-Term-Project-
 vapprox_mult4x4_csam
-Z1 !s110 1762316387
+Z1 !s110 1762316545
 !i10b 1
 !s100 ]TRMQIln@]oRM8OnDX_>91
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -20,13 +20,13 @@ R0
 w1760769269
 84x4_CSAM.v
 F4x4_CSAM.v
-!i122 22
+!i122 23
 L0 2 22
 Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1762316387.000000
+Z5 !s108 1762316545.000000
 !s107 tb_mult8x8.v|tb_4x4_multiplier.v|8x8_multiplier.v|8x8_LUT.v|4x4_multiplier.v|4x4_LUT.v|4x4_CSAM.v|
 Z6 !s90 4x4_CSAM.v|4x4_LUT.v|4x4_multiplier.v|8x8_LUT.v|8x8_multiplier.v|tb_4x4_multiplier.v|tb_mult8x8.v|
 !i113 1
@@ -42,7 +42,7 @@ R0
 Z8 w1760777298
 Z9 88x8_LUT.v
 Z10 F8x8_LUT.v
-!i122 22
+!i122 23
 L0 2 11
 R4
 r1
@@ -64,7 +64,7 @@ R0
 w1759840005
 84x4_multiplier.v
 F4x4_multiplier.v
-!i122 22
+!i122 23
 Z12 L0 2 7
 R4
 r1
@@ -86,7 +86,7 @@ R0
 Z13 w1760777203
 Z14 88x8_multiplier.v
 Z15 F8x8_multiplier.v
-!i122 22
+!i122 23
 R12
 R4
 r1
@@ -108,7 +108,7 @@ R0
 R13
 R14
 R15
-!i122 22
+!i122 23
 L0 11 21
 R4
 r1
@@ -130,7 +130,7 @@ R0
 R8
 R9
 R10
-!i122 22
+!i122 23
 L0 15 21
 R4
 r1
@@ -152,7 +152,7 @@ R0
 w1762007479
 8tb_4x4_multiplier.v
 Ftb_4x4_multiplier.v
-!i122 22
+!i122 23
 L0 3 49
 R4
 r1
@@ -174,7 +174,7 @@ R0
 w1762007810
 8tb_mult8x8.v
 Ftb_mult8x8.v
-!i122 22
+!i122 23
 L0 3 44
 R4
 r1

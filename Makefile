@@ -2,7 +2,7 @@
 SRCS := $(wildcard *.v *.sv)
 
 # Automatically guess the top module = testbench (last file alphabetically)
-TOP = 4x4_tb.v
+TOP ?= $(basename $(notdir $(word $(words $(SRCS)), $(SRCS))))
 
 # Tools
 VLIB = vlib
